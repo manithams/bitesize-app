@@ -1,4 +1,4 @@
-project: project-mms
+project: manitha
 components:
   - name: spring-app
     os: linux

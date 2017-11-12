@@ -1,4 +1,4 @@
-project: project-mms
+project: manitha
 applications:
   - name: spring-app
     runtime: ubuntu-jdk8:1.0
