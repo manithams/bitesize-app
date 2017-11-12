@@ -1,12 +1,12 @@
-project: sample
+project: project-mms
 environments:
   - name: Development
-    namespace: sample-dev
+    namespace: manitha-ns
     deployment:
       method: rolling-upgrade
     services:
       - name: spring-app
-        external_url: hellobite-sample.dev-bite.io
+        external_url: manitha.bst.prsn-dev.io
         port: 8080 
         ssl: "false"
         replicas: 1
