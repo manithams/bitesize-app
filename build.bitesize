@@ -1,4 +1,4 @@
-project: sample
+project: project-mms
 components:
   - name: spring-app
     os: linux
