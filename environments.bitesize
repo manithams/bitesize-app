@@ -1,7 +1,7 @@
 project: manitha
 environments:
   - name: Development
-    namespace: manitha-dev
+    namespace: mms-test-dev
     deployment:
       method: rolling-upgrade
     services:
