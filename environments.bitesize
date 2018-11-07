@@ -6,7 +6,7 @@ environments:
       method: rolling-upgrade
     services:
       - name: spring-app
-        external_url: manitha.bst.prsn-dev.io
+        external_url: spring-app.us1-preprod.dev-prsn.io
         port: 8080 
         ssl: "false"
         replicas: 1
